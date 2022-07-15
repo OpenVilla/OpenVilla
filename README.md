@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/kVfIJ1z.png">
+# Pure Panda
 <img src="https://img.shields.io/badge/Mentally-Unstable-critical">
 <img src="https://img.shields.io/badge/Pro-Coder-success">
 <img src="https://img.shields.io/badge/Lucida%20Console-Fangirl-blue">
